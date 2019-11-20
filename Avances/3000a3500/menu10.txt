@@ -1,0 +1,15 @@
+Desayuno:
+     	250ml de leche, 80g de muesli, 40g de proteína de suero, 
+	10g de lecitina de soja, 10g de cacahuetes.
+Merienda 1:
+   	Sandwich de 2 rebanadas de pan,  
+	1 lata de atún, 1 plátano.
+Almuerzo:
+  	150g de solomillo de cerdo, 300g de patatas cocidas, 
+	1 manzana, Ensalada mixta.
+Merienda 2:
+   	65g de jamón serrano, 170g de pan integral, 
+	40g de cacahuetes.
+Cena:
+   	150g de pescado blanco, 
+	100g de arroz integral, Ensalada mixta.

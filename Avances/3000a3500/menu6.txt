@@ -1,0 +1,13 @@
+Desayuno:
+	Tortilla de huevo de 4 claras con 1 yema, 
+	80 g avena, jugo de naranja, 40 g avellanas.
+Merienda 1:
+   	100 g de pavo, 200 g de pan integral,  fruta. 
+Almuerzo:
+  	200 g de carne, 300 g de papas, 
+	200 g mezcla de ensalada con aderezo. 
+Merienda 2:
+   	100 g de avena, batido de proteína.
+Cena:
+   	200 g salmón, 150 g de arroz, 
+	150 g de ensalada, fruta.

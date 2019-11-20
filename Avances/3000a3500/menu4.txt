@@ -1,0 +1,14 @@
+Desayuno:
+        Tortilla de huevo de 4 claras + 1 yema, 
+	80 g de avena, 200 ml de leche, 40 g de nueces.
+Merienda 1:
+   	100 g de pavo, 200g de pan, una fruta.
+Almuerzo:
+  	200 g de carne, 150 g de arroz blanco, 
+	200 g de champiñones, 1 yogurt.
+Merienda 2:
+   	100 g de atún al agua, 
+	30 g de almendra.
+Cena:
+   	250 g de pasta, 150 g de ensalada mixta, 
+	20 g de aceite de oliva, 1 fruta.

@@ -1,0 +1,15 @@
+Desayuno:
+     	50g de avena con 250ml de leche, 
+	40g de proteína de suero, 10g de lecitina de soja, 15g de nueces.
+Merienda 1:
+   	80g de muesli, 10g de lecitina de soja, 
+	20g de almendras.
+Almuerzo:
+  	150g de garbanzos cocidos, 100g de arroz integral, 
+	125g de flan de vainilla, 200g de ensalada mixta.
+Merienda 2:
+   	80g de caballa en aceite, 170g de pan blanco, 
+	35g de almendras.
+Cena:
+   	150g de lenguado, 100g de pasta blanca, 
+	1 pieza de fruta, 150g de ensalada mixta.
